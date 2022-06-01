@@ -3,7 +3,7 @@
 
 
 print("Hello")
-
+print ("nikos")
 
 # Defining main function
 def main():
@@ -13,5 +13,5 @@ def main():
 # Using the special variable
 # __name__
 if __name__ == "__main__":
-    nikos
+
     main()
