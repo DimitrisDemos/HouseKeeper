@@ -1,17 +1,20 @@
-# Python program to demonstrate
-# main() function
+class rental:
+    # rental init with properties
+    def __int__(self):
+        self.id = id
+        self.name = name
+        self.type = type
+        self.property = property
+        self.location = location
+        self.currency = currency
+        self.maxguests = maxguests
+        self.timezone = "Athens,GR"
+        self.checkin = checkin
+        self.checkout = checkout
+        self.notice = notice
+        self.fee = fee
+        self.preparationdays = preparationdays
 
-
-print("Hello")
-print("nikos")
-
-
-# Defining main function
-def main():
-    print("hey there")
-
-
-# Using the special variable
-# __name__
-if __name__ == "__main__":
-    main()
+    # function rent
+    def rent ()
+        self.
